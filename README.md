@@ -2,7 +2,7 @@
 
 # 🔬 Fractiva Claim Verification
 
-**A command-line research prototype for checking pharmaceutical marketing claims against the research papers and source material supplied with the GoNuts.ai take-home assignment.**
+**A command-line research prototype for checking pharmaceutical marketing claims against the research papers and source material supplied with the take-home assignment.**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-Optional-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
