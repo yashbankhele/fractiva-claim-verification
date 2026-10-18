@@ -1,0 +1,114 @@
+[
+  {
+    "claim_id": "C1",
+    "verdict": "cannot_verify",
+    "checks": {
+      "figure": "unclear",
+      "population": "unclear",
+      "drug_indication": "unclear",
+      "actually_stated": "unclear"
+    },
+    "evidence_file": null,
+    "evidence_page": null,
+    "evidence_span": "",
+    "computed": null,
+    "reason": "The cited prescribing information is missing; unrelated trial papers cannot verify the label claim.",
+    "verification_status": "local_validation"
+  },
+  {
+    "claim_id": "C2",
+    "verdict": "cannot_verify",
+    "checks": {
+      "figure": "unclear",
+      "population": "unclear",
+      "drug_indication": "unclear",
+      "actually_stated": "unclear"
+    },
+    "evidence_file": null,
+    "evidence_page": null,
+    "evidence_span": "",
+    "computed": null,
+    "reason": "quota exhausted; no scientific verdict was produced.",
+    "verification_status": "api_failure"
+  },
+  {
+    "claim_id": "C3",
+    "verdict": "cannot_verify",
+    "checks": {
+      "figure": "unclear",
+      "population": "unclear",
+      "drug_indication": "unclear",
+      "actually_stated": "unclear"
+    },
+    "evidence_file": null,
+    "evidence_page": null,
+    "evidence_span": "",
+    "computed": null,
+    "reason": "quota exhausted; no scientific verdict was produced.",
+    "verification_status": "api_failure"
+  },
+  {
+    "claim_id": "C4",
+    "verdict": "cannot_verify",
+    "checks": {
+      "figure": "unclear",
+      "population": "unclear",
+      "drug_indication": "unclear",
+      "actually_stated": "unclear"
+    },
+    "evidence_file": null,
+    "evidence_page": null,
+    "evidence_span": "",
+    "computed": null,
+    "reason": "quota exhausted; no scientific verdict was produced.",
+    "verification_status": "api_failure"
+  },
+  {
+    "claim_id": "C5",
+    "verdict": "cannot_verify",
+    "checks": {
+      "figure": "unclear",
+      "population": "unclear",
+      "drug_indication": "unclear",
+      "actually_stated": "unclear"
+    },
+    "evidence_file": null,
+    "evidence_page": null,
+    "evidence_span": "",
+    "computed": null,
+    "reason": "quota exhausted; no scientific verdict was produced.",
+    "verification_status": "api_failure"
+  },
+  {
+    "claim_id": "C6",
+    "verdict": "cannot_verify",
+    "checks": {
+      "figure": "unclear",
+      "population": "unclear",
+      "drug_indication": "unclear",
+      "actually_stated": "unclear"
+    },
+    "evidence_file": null,
+    "evidence_page": null,
+    "evidence_span": "",
+    "computed": null,
+    "reason": "quota exhausted; no scientific verdict was produced.",
+    "verification_status": "api_failure"
+  },
+  {
+    "claim_id": "C7",
+    "verdict": "cannot_verify",
+    "checks": {
+      "figure": "unclear",
+      "population": "unclear",
+      "drug_indication": "unclear",
+      "actually_stated": "unclear"
+    },
+    "evidence_file": null,
+    "evidence_page": null,
+    "evidence_span": "",
+    "computed": null,
+    "reason": "C7 panel assessment failed; no combined scientific verdict was produced.",
+    "verification_status": "api_failure"
+  }
+]
